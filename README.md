@@ -32,6 +32,11 @@ yarn dev
 yarn build
 ```
 
+### Hot-Rebuild for Preview
+```sh
+yarn preview:watch
+```
+
 ### Lint with [ESLint](https://eslint.org/)
 
 ```sh
